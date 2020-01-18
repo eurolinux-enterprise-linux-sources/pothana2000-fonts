@@ -1,0 +1,21 @@
+				  pothana2000-fonts
+
+* Wed Mar 02 2011 Sandeep Shedmake <sshedmak@redhat.com> - 1.3.3
+- Added Indian Rupee Sign (U+20B9)
+
+* Wed Feb 09 2011 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.3.2-2
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_15_Mass_Rebuild
+
+* Mon Dec 14 2009 <sshedmak@redhat.com> - 1.3.2-1
+- Fixed FSType, Preferred Style, UinqueID and Fullname
+- Fixed Invalid Glyph Names reported by fontlint
+- with exceptions string added in License
+
+* Wed Mar 25 2009 <sshedmak@redhat.com> - 1.3.1-2
+- Fixed download URL
+
+* Tue Mar 24 2009 <sshedmak@redhat.com> - 1.3.1-1
+- Font Exception text added to font license
+
+* Tue Jan 15 2008 <sshedmak@redhat.com> - 1.3-1
+- Initial packaging
